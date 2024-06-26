@@ -56,8 +56,6 @@ Hi, I'm a master student in SECURITY PRIDE Research Group at Huazhong University
 - China National Scholarship, 2019
  
 
-<img align="center" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
-
 <br>
 <br>
 <br>
