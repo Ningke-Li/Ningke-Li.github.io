@@ -14,7 +14,7 @@ redirect_from:
 
 Hi, I'm a master student in SECURITY PRIDE Research Group at Huazhong University of Science and Technology (HUST, School of Cyber Science and Engineering), co-supervised by Prof. [Haoyu Wang](https://howiepku.github.io/) and Dr. [Kailong Wang](https://wangklsg.github.io/). I received my B.E. degree in Information Security from Beijing University of Posts and Telecommunications in 2022. My research interests include AI + Program Analysis, OSS Security, and LLM Security.
 
-**Recently I have been diving into the deep ocean of programming languages (focusing on temporal logic and model checking). 📚🥰**
+**Recently I have been diving into the deep ocean of programming languages (focusing on temporal logic and automatic theorem proving). 📚🥰**
 
 **Looking for a PhD position in Europe and Singapore 💖**
 
